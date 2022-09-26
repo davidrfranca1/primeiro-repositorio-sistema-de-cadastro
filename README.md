@@ -3,5 +3,5 @@
 > Status: Em desenvolvimento
 
 ```
-Testandi 123
+node app.js 
 ```
